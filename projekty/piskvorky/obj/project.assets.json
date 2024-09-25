@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\projekty\\kamen-nuzky-papir.csproj",
-      "projectName": "kamen-nuzky-papir",
-      "projectPath": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\projekty\\kamen-nuzky-papir.csproj",
+      "projectUniqueName": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\piskvorky\\piskvorky.csproj",
+      "projectName": "piskvorky",
+      "projectPath": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\piskvorky\\piskvorky.csproj",
       "packagesPath": "C:\\Users\\Zakj23\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\projekty\\obj\\",
+      "outputPath": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\piskvorky\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zakj23\\AppData\\Roaming\\NuGet\\NuGet.Config",

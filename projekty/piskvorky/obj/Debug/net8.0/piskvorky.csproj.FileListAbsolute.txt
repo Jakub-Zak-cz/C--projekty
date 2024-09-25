@@ -1,0 +1,15 @@
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\piskvorky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\piskvorky.AssemblyInfoInputs.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\piskvorky.AssemblyInfo.cs
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\piskvorky.csproj.CoreCompileInputs.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\piskvorky.sourcelink.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\bin\Debug\net8.0\piskvorky.exe
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\bin\Debug\net8.0\piskvorky.deps.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\bin\Debug\net8.0\piskvorky.runtimeconfig.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\bin\Debug\net8.0\piskvorky.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\bin\Debug\net8.0\piskvorky.pdb
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\piskvorky.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\refint\piskvorky.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\piskvorky.pdb
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\piskvorky.genruntimeconfig.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\piskvorky\obj\Debug\net8.0\ref\piskvorky.dll
