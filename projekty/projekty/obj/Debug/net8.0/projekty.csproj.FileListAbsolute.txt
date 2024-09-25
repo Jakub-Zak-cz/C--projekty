@@ -1,0 +1,15 @@
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\projekty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\projekty.AssemblyInfoInputs.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\projekty.AssemblyInfo.cs
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\projekty.csproj.CoreCompileInputs.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\projekty.sourcelink.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\projekty.exe
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\projekty.deps.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\projekty.runtimeconfig.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\projekty.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\projekty.pdb
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\projekty.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\refint\projekty.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\projekty.pdb
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\projekty.genruntimeconfig.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\ref\projekty.dll
