@@ -1,4 +1,4 @@
-﻿namespace projekty
+﻿namespace kamennuzkypapir
 {
     internal class Program
     {
