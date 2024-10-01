@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\projekty\\kamennuzkypapir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projekty\\kamennuzkypapir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{277976AB-90BD-4390-9EDA-F3B78D5D0A8D}|\u0161ibenice\\\u0161ibenice.csproj|c:\\users\\zakj23\\downloads\\c#-projekty\\projekty\\\u0161ibenice\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{277976AB-90BD-4390-9EDA-F3B78D5D0A8D}|\u0161ibenice\\\u0161ibenice.csproj|solutionrelative:\u0161ibenice\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5076A8-ADF5-4D75-AF31-3B4D1600BF5B}|piskvorky\\piskvorky.csproj|c:\\users\\zakj23\\downloads\\c#-projekty\\projekty\\piskvorky\\piskvorky.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CD5076A8-ADF5-4D75-AF31-3B4D1600BF5B}|piskvorky\\piskvorky.csproj|solutionrelative:piskvorky\\piskvorky.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277976AB-90BD-4390-9EDA-F3B78D5D0A8D}|\u0161ibenice\\\u0161ibenice.csproj|c:\\users\\zakj23\\downloads\\c#-projekty\\projekty\\\u0161ibenice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277976AB-90BD-4390-9EDA-F3B78D5D0A8D}|\u0161ibenice\\\u0161ibenice.csproj|solutionrelative:\u0161ibenice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62FDF70-2A7F-404E-A3B0-C1911BEAAE56}|projekty\\kamen-nuzky-papir.csproj|c:\\users\\zakj23\\downloads\\c#-projekty\\projekty\\projekty\\kamennuzkypapir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62FDF70-2A7F-404E-A3B0-C1911BEAAE56}|projekty\\kamen-nuzky-papir.csproj|solutionrelative:projekty\\kamennuzkypapir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5076A8-ADF5-4D75-AF31-3B4D1600BF5B}|piskvorky\\piskvorky.csproj|c:\\users\\zakj23\\downloads\\c#-projekty\\projekty\\piskvorky\\piskvorky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD5076A8-ADF5-4D75-AF31-3B4D1600BF5B}|piskvorky\\piskvorky.csproj|solutionrelative:piskvorky\\piskvorky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "piskvorky",
+              "DocumentMoniker": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\piskvorky\\piskvorky.csproj",
+              "RelativeDocumentMoniker": "piskvorky\\piskvorky.csproj",
+              "ToolTip": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\piskvorky\\piskvorky.csproj",
+              "RelativeToolTip": "piskvorky\\piskvorky.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T08:58:07.165Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "text.txt",
+              "DocumentMoniker": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\\u0161ibenice\\text.txt",
+              "RelativeDocumentMoniker": "\u0161ibenice\\text.txt",
+              "ToolTip": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\\u0161ibenice\\text.txt",
+              "RelativeToolTip": "\u0161ibenice\\text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-01T09:44:08.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\\u0161ibenice\\Program.cs",
+              "RelativeDocumentMoniker": "\u0161ibenice\\Program.cs",
+              "ToolTip": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\\u0161ibenice\\Program.cs",
+              "RelativeToolTip": "\u0161ibenice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:43:42.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "piskvorky",
+              "DocumentMoniker": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\piskvorky\\piskvorky.csproj",
+              "RelativeDocumentMoniker": "piskvorky\\piskvorky.csproj",
+              "ToolTip": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\piskvorky\\piskvorky.csproj",
+              "RelativeToolTip": "piskvorky\\piskvorky.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T09:02:04.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "kamennuzkypapir.cs",
               "DocumentMoniker": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\projekty\\kamennuzkypapir.cs",
               "RelativeDocumentMoniker": "projekty\\kamennuzkypapir.cs",
               "ToolTip": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\projekty\\kamennuzkypapir.cs",
               "RelativeToolTip": "projekty\\kamennuzkypapir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T11:30:54.562Z"
+              "WhenOpened": "2024-09-25T11:30:54.562Z",
+              "EditorCaption": ""
             }
           ]
         }

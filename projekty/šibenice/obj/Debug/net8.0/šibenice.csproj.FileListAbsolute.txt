@@ -1,0 +1,16 @@
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\bin\Debug\net8.0\šibenice.exe
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\bin\Debug\net8.0\šibenice.deps.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\bin\Debug\net8.0\šibenice.runtimeconfig.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\bin\Debug\net8.0\šibenice.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\bin\Debug\net8.0\šibenice.pdb
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\šibenice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\šibenice.AssemblyInfoInputs.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\šibenice.AssemblyInfo.cs
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\šibenice.csproj.CoreCompileInputs.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\šibenice.sourcelink.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\šibenice.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\refint\šibenice.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\šibenice.pdb
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\šibenice.genruntimeconfig.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\obj\Debug\net8.0\ref\šibenice.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\šibenice\bin\Debug\net8.0\text.txt

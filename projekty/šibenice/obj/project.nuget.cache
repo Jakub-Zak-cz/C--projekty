@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ay+2b+tcL1c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zakj23\\Downloads\\C#-projekty\\projekty\\šibenice\\šibenice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zakj23\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.8\\microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "C:\\Users\\Zakj23\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\Zakj23\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

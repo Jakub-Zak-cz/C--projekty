@@ -1,0 +1,15 @@
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\kamen-nuzky-papir.exe
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\kamen-nuzky-papir.deps.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\kamen-nuzky-papir.runtimeconfig.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\kamen-nuzky-papir.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\bin\Debug\net8.0\kamen-nuzky-papir.pdb
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\kamen-nuzky-papir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\kamen-nuzky-papir.AssemblyInfoInputs.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\kamen-nuzky-papir.AssemblyInfo.cs
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\kamen-nuzky-papir.csproj.CoreCompileInputs.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\kamen-nuzky-papir.sourcelink.json
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\kamen-nuzky-papir.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\refint\kamen-nuzky-papir.dll
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\kamen-nuzky-papir.pdb
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\kamen-nuzky-papir.genruntimeconfig.cache
+C:\Users\Zakj23\Downloads\C#-projekty\projekty\projekty\obj\Debug\net8.0\ref\kamen-nuzky-papir.dll
